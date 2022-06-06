@@ -1,5 +1,5 @@
 # Pakin-Entelijan
- Parking qui compte le temps et émet une facture.
+ Parking qui compte le temps de parking et émet une facture.
 
 # Participants / Rôles
  - Angelo Dimitrov CHARLEMAGNE (Développeur service Web)
