@@ -15,7 +15,6 @@
  - Capteurs: capteur RFID , capteur de proximité 
  - Actionneurs : LEDs rouge et vert, Servo moteur (pour ouvrir la barrière de sortie)
  - Puces RFID,
- - 
 
 # Service Web
  - Fournir la durée du garage 
