@@ -27,7 +27,7 @@
 		return $result;
 	}
 	// Methode pour transmettre un ou plusieurs mots a arduino
-	function sendArduino($text { 
+	function sendArduino($text) { 
 		$handle=connectCom();
 		
 		fputs($handle,$text."\n");
