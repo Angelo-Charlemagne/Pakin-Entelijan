@@ -1,6 +1,6 @@
 <?php
 	//Methode pour etablir la connection avec arduino via le port Serie (COMX)
-	function connectCom($device='COM6') {
+	function connectCom($device='COM4') {
 		exec("mode $device BAUD=38400 PARITY=1 DATA=8 STOP=n xon=on octs=off rts=on");
 		$comport=@fopen($device, "wb+");
 		if ($comport) {
